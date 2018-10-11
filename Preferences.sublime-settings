@@ -1,0 +1,32 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
+		}
+	],
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"command": "auto_save",
+	"font_face": "Fira Code Medium",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"gray_antialias"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"keys":
+	[
+		"ctrl+shift+s"
+	],
+	"save_on_focus_lost": true,
+	"theme": "ayu-mirage.sublime-theme"
+}
